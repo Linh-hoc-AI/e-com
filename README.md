@@ -30,16 +30,21 @@ e-com/
 ```
 
 Folder Structure and Contents
-1. data Folder
+1. data/
+
 This folder contains the dataset for training and testing:
 
-images Folder: Contains product images, where each image file is named using the product ID (e.g., 123.png for a product with ID 123).
+images/: Contains product images, where each image file is named using the product ID (e.g., 123.png for a product with ID 123).
+
 train.csv: Contains product IDs and their corresponding description labels for training.
+
 test.csv: Contains product IDs and their corresponding description labels for testing.
+
 label_train.json: Statistics of the number of samples per description label in the training set.
+
 label_test.json: Statistics of the number of samples per description label in the test set.
 
-2. fig Folder
+2. fig/
 
 Contains illustrative images (e.g., fig1.png, fig2.png, etc.) used for visualization or documentation purposes.
 
