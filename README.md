@@ -1,5 +1,16 @@
 # Multimodal retrieval: A contrastive learning approach 
 
+![image](https://github.com/user-attachments/assets/88e7499c-6ee5-4a60-a69e-edd71b9d4938)
+
+## Text Encoder
+
+![image](https://github.com/user-attachments/assets/8b5e2f1c-fb43-46ff-91b7-b069d49db3a5)
+
+## Vision Encoder
+
+![image](https://github.com/user-attachments/assets/1f374539-b6c7-49d3-afff-da526061c95e)
+
+
 Download the dataset from the following Google Drive link: [Dataset Link](https://drive.google.com/drive/folders/1-IX2zjtLHTClm66vRHRwvo_-s0X5v8FM?usp=drive_link)
 
 The downloaded file is data.zip. Extract it to create the data folder.
