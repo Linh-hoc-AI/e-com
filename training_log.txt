@@ -1,0 +1,153 @@
+Training Log
+====================
+Number of parameters: 1,523,841
+====================
+Epoch [1/50], Average Loss: 5.531
+Model Saved at Epoch 1
+Model Size: 6.09 MB
+Epoch [2/50], Average Loss: 5.530
+Model Saved at Epoch 2
+Model Size: 6.09 MB
+Epoch [3/50], Average Loss: 5.495
+Model Saved at Epoch 3
+Model Size: 6.09 MB
+Epoch [4/50], Average Loss: 5.343
+Model Saved at Epoch 4
+Model Size: 6.09 MB
+Epoch [5/50], Average Loss: 5.176
+Model Saved at Epoch 5
+Model Size: 6.09 MB
+Epoch [6/50], Average Loss: 5.045
+Model Saved at Epoch 6
+Model Size: 6.09 MB
+Epoch [7/50], Average Loss: 4.934
+Model Saved at Epoch 7
+Model Size: 6.09 MB
+Epoch [8/50], Average Loss: 4.819
+Model Saved at Epoch 8
+Model Size: 6.09 MB
+Epoch [9/50], Average Loss: 4.727
+Model Saved at Epoch 9
+Model Size: 6.09 MB
+Epoch [10/50], Average Loss: 4.624
+Model Saved at Epoch 10
+Model Size: 6.09 MB
+Epoch [11/50], Average Loss: 4.549
+Model Saved at Epoch 11
+Model Size: 6.09 MB
+Epoch [12/50], Average Loss: 4.456
+Model Saved at Epoch 12
+Model Size: 6.09 MB
+Epoch [13/50], Average Loss: 4.372
+Model Saved at Epoch 13
+Model Size: 6.09 MB
+Epoch [14/50], Average Loss: 4.318
+Model Saved at Epoch 14
+Model Size: 6.09 MB
+Epoch [15/50], Average Loss: 4.233
+Model Saved at Epoch 15
+Model Size: 6.09 MB
+Epoch [16/50], Average Loss: 4.168
+Model Saved at Epoch 16
+Model Size: 6.09 MB
+Epoch [17/50], Average Loss: 4.099
+Model Saved at Epoch 17
+Model Size: 6.09 MB
+Epoch [18/50], Average Loss: 4.017
+Model Saved at Epoch 18
+Model Size: 6.09 MB
+Epoch [19/50], Average Loss: 3.942
+Model Saved at Epoch 19
+Model Size: 6.09 MB
+Epoch [20/50], Average Loss: 3.866
+Model Saved at Epoch 20
+Model Size: 6.09 MB
+Epoch [21/50], Average Loss: 3.801
+Model Saved at Epoch 21
+Model Size: 6.09 MB
+Epoch [22/50], Average Loss: 3.748
+Model Saved at Epoch 22
+Model Size: 6.09 MB
+Epoch [23/50], Average Loss: 3.679
+Model Saved at Epoch 23
+Model Size: 6.09 MB
+Epoch [24/50], Average Loss: 3.609
+Model Saved at Epoch 24
+Model Size: 6.09 MB
+Epoch [25/50], Average Loss: 3.517
+Model Saved at Epoch 25
+Model Size: 6.09 MB
+Epoch [26/50], Average Loss: 3.424
+Model Saved at Epoch 26
+Model Size: 6.09 MB
+Epoch [27/50], Average Loss: 3.360
+Model Saved at Epoch 27
+Model Size: 6.09 MB
+Epoch [28/50], Average Loss: 3.299
+Model Saved at Epoch 28
+Model Size: 6.09 MB
+Epoch [29/50], Average Loss: 3.212
+Model Saved at Epoch 29
+Model Size: 6.09 MB
+Epoch [30/50], Average Loss: 3.169
+Model Saved at Epoch 30
+Model Size: 6.09 MB
+Epoch [31/50], Average Loss: 3.076
+Model Saved at Epoch 31
+Model Size: 6.09 MB
+Epoch [32/50], Average Loss: 3.037
+Model Saved at Epoch 32
+Model Size: 6.09 MB
+Epoch [33/50], Average Loss: 2.943
+Model Saved at Epoch 33
+Model Size: 6.09 MB
+Epoch [34/50], Average Loss: 2.889
+Model Saved at Epoch 34
+Model Size: 6.09 MB
+Epoch [35/50], Average Loss: 2.742
+Model Saved at Epoch 35
+Model Size: 6.09 MB
+Epoch [36/50], Average Loss: 2.721
+Model Saved at Epoch 36
+Model Size: 6.09 MB
+Epoch [37/50], Average Loss: 2.700
+Model Saved at Epoch 37
+Model Size: 6.09 MB
+Epoch [38/50], Average Loss: 2.630
+Model Saved at Epoch 38
+Model Size: 6.09 MB
+Epoch [39/50], Average Loss: 2.499
+Model Saved at Epoch 39
+Model Size: 6.09 MB
+Epoch [40/50], Average Loss: 2.450
+Model Saved at Epoch 40
+Model Size: 6.09 MB
+Epoch [41/50], Average Loss: 2.455
+Epoch [42/50], Average Loss: 2.422
+Model Saved at Epoch 42
+Model Size: 6.09 MB
+Epoch [43/50], Average Loss: 2.420
+Model Saved at Epoch 43
+Model Size: 6.09 MB
+Epoch [44/50], Average Loss: 2.379
+Model Saved at Epoch 44
+Model Size: 6.09 MB
+Epoch [45/50], Average Loss: 2.321
+Model Saved at Epoch 45
+Model Size: 6.09 MB
+Epoch [46/50], Average Loss: 2.318
+Model Saved at Epoch 46
+Model Size: 6.09 MB
+Epoch [47/50], Average Loss: 2.253
+Model Saved at Epoch 47
+Model Size: 6.09 MB
+Epoch [48/50], Average Loss: 2.272
+Epoch [49/50], Average Loss: 2.245
+Model Saved at Epoch 49
+Model Size: 6.09 MB
+Epoch [50/50], Average Loss: 2.183
+Model Saved at Epoch 50
+Model Size: 6.09 MB
+====================
+Total Training Time: 0h 15m 48.42s
+Best Loss: 2.183
