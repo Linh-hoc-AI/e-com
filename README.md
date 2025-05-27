@@ -3,6 +3,32 @@
 Download the dataset from the following Google Drive link: [Dataset Link](https://drive.google.com/drive/folders/1-IX2zjtLHTClm66vRHRwvo_-s0X5v8FM?usp=drive_link)
 The downloaded file is data.zip. Extract it to create the data folder.
 
+```bash
+e-com/
+├── data/
+│   ├── images/
+│   ├── label_test.json
+│   ├── label_train.json
+│   ├── test.csv
+│   └── train.csv
+│   
+├── fig/
+│   ├── fig1.png
+│   ├── fig2.png
+│   ├── fig3.png
+│   ├── fig4.png
+│   ├── fig5.png
+│   ├── fig6.png
+│   ├── fig7.png
+│   ├── fig8.png
+│   ├── fig9.png
+│   └── fig10.png
+├── e-com.ipynb
+├── e-com.pt
+├── README.md
+└── training_log.txt
+```
+
 Folder Structure and Contents
 1. data Folder
 This folder contains the dataset for training and testing:
@@ -29,28 +55,3 @@ The trained model weights file for the e-commerce model.
 
 The source code notebook containing the implementation of the model, including data preprocessing, training, and evaluation steps.
 
-```bash
-e-com/
-├── data/
-│   ├── images/
-│   ├── label_test.json
-│   ├── label_train.json
-│   ├── test.csv
-│   └── train.csv
-│   
-├── fig/
-│   ├── fig1.png
-│   ├── fig2.png
-│   ├── fig3.png
-│   ├── fig4.png
-│   ├── fig5.png
-│   ├── fig6.png
-│   ├── fig7.png
-│   ├── fig8.png
-│   ├── fig9.png
-│   └── fig10.png
-├── e-com.ipynb
-├── e-com.pt
-├── README.md
-└── training_log.txt
-```
