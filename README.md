@@ -29,7 +29,7 @@ The trained model weights file for the e-commerce model.
 
 The source code notebook containing the implementation of the model, including data preprocessing, training, and evaluation steps.
 
-
+```bash
 e-com/
 ├── data/
 │   ├── images/
@@ -53,3 +53,4 @@ e-com/
 ├── e-com.pt
 ├── README.md
 └── training_log.txt
+```
